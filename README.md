@@ -1,4 +1,4 @@
-# Laboratorium: Metoda Newtona-Raphsona
+# Metoda Newtona-Raphsona
 
 ## Opis zadania
 
